@@ -1,2 +1,4 @@
 git-hratky
 ==========
+
+Testovaci commit
