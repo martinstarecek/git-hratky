@@ -13,3 +13,5 @@ No a ted neco noveho....
 ## Branch?
 
 Ano je to..
+
+## Remote branch
