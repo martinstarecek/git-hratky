@@ -1,9 +1,8 @@
-git-hratky
-==========
+# git-hratky
 
 Testovaci commit
 
-Uvidime co se bude dit
+## Uvidime co se bude dit
 ======================
 
 No a ted neco noveho....
@@ -12,4 +11,6 @@ No a ted neco noveho....
   - Odrazka
   - Odrazka
 
-Branch?
+## Branch?
+
+Ano je to..
